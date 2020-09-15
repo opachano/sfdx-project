@@ -3,7 +3,9 @@
     <actionOverrides>
         <actionName>View</actionName>
         <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>Property_Record_Page</content>
+        <types><members>Property_Record_Page</members>         
+            <name>FlexiPage</name>     
+        </types>
         <formFactor>Large</formFactor>
         <skipRecordTypeSelect>false</skipRecordTypeSelect>
         <type>Flexipage</type>
