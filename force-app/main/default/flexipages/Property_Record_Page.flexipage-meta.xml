@@ -36,8 +36,7 @@
                 <componentInstanceProperties>
                     <name>showActionBar</name>
                     <value>true</value>
-                </componentInstanceProperties>
-            <componentInstance>          
+                </componentInstanceProperties>        
                 <componentName>force:relatedListContainer</componentName>
             </componentInstance>
         </itemInstances>
